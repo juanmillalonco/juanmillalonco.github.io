@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    }
+
+.section-title {
+    color: #007bff;
+    
+    }
+
+.galeria
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
